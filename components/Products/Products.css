@@ -19,9 +19,11 @@
 }
 
 .products-element__name {
+    display: flex;
+    justify-content: center;
     margin-bottom: auto;
     font-weight: bold;
-    text-align: center;
+
 
 }
 
