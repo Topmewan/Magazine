@@ -1,0 +1,63 @@
+[
+  {
+    "id": "el1",
+    "name":"Samsung Galaxy S21 256GB Phantom White",
+    "img": "https://i.postimg.cc/mD6yK4nX/30054906b.jpg",
+    "price": 961
+  },
+  {
+    "id": "el2",
+    "name": "Apple iPhone 12 128GB Purple",
+    "img": "https://i.postimg.cc/RFf0xQsk/30056770b.jpg",
+    "price": 1030
+  },
+  {
+    "id": "el3",
+    "name": "Apple iPhone 11 128GB Black",
+    "img": "https://i.postimg.cc/CLvStQMZ/30052942b.jpg",
+    "price": 728
+  },
+  {
+    "id": "el4",
+    "name": "Samsung Galaxy S20 Light Blue",
+    "img": "https://i.postimg.cc/jqHzzzx3/30048208b.jpg",
+    "price": 961
+  },
+  {
+    "id": "el5",
+    "name": "Apple iPhone 12 Pro Max 512GB Pacific Blue",
+    "img": "https://i.postimg.cc/t4pZpfF9/30052923b1.jpg",
+    "price": 1923
+  },
+  {
+    "id": "el6",
+    "name": "Sony Xperia 1 III Black",
+    "img": "https://i.postimg.cc/vHz8Lm6d/30056692b.jpg",
+    "price": 1360
+  },
+  {
+    "id": "el7",
+    "name": "Apple iPhone 12 mini 256GB Blue ",
+    "img": "https://i.postimg.cc/SQdHgYVV/30052883b.jpg",
+    "price": 1030
+  },
+  {
+    "id": "el8",
+    "name": "Apple iPhone XR 128GB Black",
+    "img": "https://i.postimg.cc/qMgDQbNM/30052930b.jpg",
+    "price": 687
+  },
+  {
+    "id": "el9",
+    "name": "Samsung Galaxy S20 Ultra Gray",
+    "img": "https://i.postimg.cc/8CThXcZB/30048214b.jpg",
+    "price": 1305
+  },
+  {
+    "id": "el10",
+    "name": "Samsung Galaxy S10 Aquamarine",
+    "img": "https://i.postimg.cc/dDMC2V7C/30042520b.jpg",
+    "price": 824
+  }
+
+]
